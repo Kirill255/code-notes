@@ -1,14 +1,18 @@
 ---
-date: 2019-5-6
+title: Hello World
+date: 2020-2-9
+author: Kirill255
+location: Russia 
 tag: 
+  - markdown
+  - vuepress
+  - js
+  - vue
   - theme
   - blog
-  - vuepress
-author: ULIVZ
-location: Shanghai  
 ---
 
-# Writing a VuePress theme
+# Hello World
 
 To write a theme, create a `.vuepress/theme` directory in your docs root, and then create a `Layout.vue` file:
 

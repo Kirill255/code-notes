@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Code Notes',
-  description: 'This is a blog example built by VuePress',
+  description: 'The blog about JavaScript and JavaScript ecosystem and not only',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
   themeConfig: {
     /**
@@ -13,14 +13,11 @@ module.exports = {
      * Ref: https://vuepress-theme-blog.ulivz.com/#nav
      */
     nav: [
-      {
-        text: 'Blog',
-        link: '/',
-      },
-      {
-        text: 'Tags',
-        link: '/tag/',
-      },
+      { text: 'Home', link: '/' },
+      // { text: 'Posts', link: '/posts/' },
+      { text: 'Tools', link: '/tools/' },
+      { text: 'Tags', link: '/tag/' } // default route, exactly /tag/ not /tags/
+      // { text: 'Google', link: 'https://google.com' }, // external source
     ],
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/#footer
@@ -29,11 +26,11 @@ module.exports = {
       contact: [
         {
           type: 'github',
-          link: 'https://github.com/ulivz',
+          link: 'https://github.com/Kirill255',
         },
         {
-          type: 'twitter',
-          link: 'https://twitter.com/_ulivz',
+          type: 'gitlab',
+          link: 'https://gitlab.com/Kirill255',
         },
       ],
       copyright: [
@@ -42,7 +39,11 @@ module.exports = {
           link: 'https://policies.google.com/privacy?hl=en-US',
         },
         {
-          text: 'MIT Licensed | Copyright © 2018-present Vue.js',
+          text: 'MIT Licensed',
+          link: '',
+        },
+        {
+          text: 'Copyright © 2020',
           link: '',
         },
       ],
