@@ -1,0 +1,20 @@
+{
+  "name": "code-notes",
+  "version": "0.0.1",
+  "description": "About JavaScript and JavaScript ecosystem and not only",
+  "main": "index.js",
+  "authors": {
+    "name": "Kirill255",
+    "email": "code-notes@mail.ru"
+  },
+  "repository": "https://github.com/Kirill255/code-notes",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/theme-blog": "^1.0.0"
+  }
+}
