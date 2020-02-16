@@ -1,15 +1,15 @@
 ---
 title: Hello World
 date: 2020-2-9
-author: Kirill255
-location: Russia 
-tag: 
+tags:
   - markdown
   - vuepress
   - js
   - vue
   - theme
   - blog
+author: Kirill255
+location: Russia
 ---
 
 # Hello World
@@ -191,3 +191,4 @@ export default ({
   // ...apply enhancements to the app
 }
 ```
+<Disqus/>

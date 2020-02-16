@@ -1,10 +1,11 @@
 ---
+title: Front Matter in VuePress
 date: 2018-11-7
-tag: 
+tags:
   - frontmatter
   - vuepress
 author: ULIVZ
-location: Hangzhou  
+location: Hangzhou
 ---
 
 # Front Matter in VuePress

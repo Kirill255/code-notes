@@ -1,11 +1,12 @@
 ---
+title: Writing a VuePress theme
 date: 2019-5-6
-tag: 
+tags:
   - theme
   - blog
   - vuepress
 author: ULIVZ
-location: Shanghai  
+location: Shanghai
 ---
 
 # Writing a VuePress theme

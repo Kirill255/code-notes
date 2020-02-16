@@ -1,10 +1,11 @@
 ---
+title: Markdown Slot
 date: 2019-2-26
-tag: 
+tags:
   - markdown
   - vuepress
 author: ULIVZ
-location: Hangzhou  
+location: Hangzhou
 ---
 
 # Markdown Slot
